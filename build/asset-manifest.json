@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d904b2f.chunk.css",
+    "main.js": "/static/js/main.fc604114.chunk.js",
+    "main.js.map": "/static/js/main.fc604114.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.33a10c0a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.33a10c0a.js.map",
+    "static/js/2.0f1c4fe3.chunk.js": "/static/js/2.0f1c4fe3.chunk.js",
+    "static/js/2.0f1c4fe3.chunk.js.map": "/static/js/2.0f1c4fe3.chunk.js.map",
+    "static/js/3.31d3e377.chunk.js": "/static/js/3.31d3e377.chunk.js",
+    "static/js/3.31d3e377.chunk.js.map": "/static/js/3.31d3e377.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0d904b2f.chunk.css.map": "/static/css/main.0d904b2f.chunk.css.map",
+    "static/js/2.0f1c4fe3.chunk.js.LICENSE.txt": "/static/js/2.0f1c4fe3.chunk.js.LICENSE.txt",
+    "static/media/Candidatehomepageimg.7b4ebf34.png": "/static/media/Candidatehomepageimg.7b4ebf34.png",
+    "static/media/Form.419517b0.png": "/static/media/Form.419517b0.png",
+    "static/media/MainHomepageimg.7c8b1415.png": "/static/media/MainHomepageimg.7c8b1415.png",
+    "static/media/PageNotFound.0aa9e308.png": "/static/media/PageNotFound.0aa9e308.png",
+    "static/media/Recruiterhomepageimg.e488c24c.png": "/static/media/Recruiterhomepageimg.e488c24c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33a10c0a.js",
+    "static/js/2.0f1c4fe3.chunk.js",
+    "static/css/main.0d904b2f.chunk.css",
+    "static/js/main.fc604114.chunk.js"
+  ]
+}

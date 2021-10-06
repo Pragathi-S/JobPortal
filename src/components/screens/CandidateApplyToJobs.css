@@ -1,0 +1,37 @@
+.lastlogout-btn{
+    margin-left: 150px;
+}
+
+.lastlogout-btn{
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border: 1px solid rgb(179, 174, 174);
+    border-radius: 25px;
+    padding: 8px;
+    margin-bottom: 600px;
+    background-color: white;
+}
+
+.lastlogout-btn:hover{
+    color: white;
+    background-color: #00b0ff;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border: 1px solid #00b0ff;
+    border-radius: 25px;
+    padding: 8px;
+    margin-bottom: 600px;
+}
+
+.table-apply{
+    padding-left: -10%
+}
+
+.apply-btn{
+    background-color: white;
+    border: none;
+    margin-left: 10px;
+}

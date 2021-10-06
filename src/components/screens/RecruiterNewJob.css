@@ -1,0 +1,75 @@
+.lastlogout-btn{
+    margin-left: 150px;
+}
+
+.lastlogout-btn{
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border: 1px solid rgb(179, 174, 174);
+    border-radius: 25px;
+    padding: 8px;
+    margin-bottom: 600px;
+    background-color: white;
+}
+
+.lastlogout-btn:hover{
+    color: white;
+    background-color: #00b0ff;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border: 1px solid #00b0ff;
+    border-radius: 25px;
+    padding: 8px;
+    margin-bottom: 600px;
+}
+
+.newjob-container{
+    color: black;
+    margin-top: -45%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    padding-left: 35%;
+}
+
+.pageTitle{
+    padding-left: 125px;
+}
+
+.postJob_form{
+    color: black;
+    font-size: medium;
+}
+
+
+.job-label{
+    color: black;
+}
+
+.job-input{
+    color: black;
+    border: 2px solid #00b0ff;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.submit-btn{
+    color: black;
+    border: 1px solid grey;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-left: 22%;
+}
+
+.submit-btn:hover{
+    color: white;
+    border: 1px solid white;
+    background-color: #00b0ff;
+    padding: 10px;
+    border-radius: 20px;
+}

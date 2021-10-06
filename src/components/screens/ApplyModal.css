@@ -1,0 +1,81 @@
+.modal{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-content{
+    width: 500px;
+    background-color: #fff;
+}
+
+.modal-header, .modal-footer{
+    padding: 10px;
+}
+
+.modal-title{
+    margin: 0;
+    padding-left: 45%;
+}
+
+.modal-body{
+    padding: 10px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+
+.apply-label{
+    color: black;
+}
+
+.apply-input{
+    color: black;
+    border: 2px solid #00b0ff;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-left: 7%;
+}
+
+.modalsubmit-btn{
+    color: black;
+    border: 1px solid grey;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-left: 43%;
+}
+
+.modalsubmit-btn:hover{
+    color: white;
+    border: 1px solid white;
+    background-color: #00b0ff;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.close-btn{
+    color: black;
+    border: 1px solid grey;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin-left:85%;
+}
+
+.close-btn:hover{
+    color: white;
+    border: 1px solid white;
+    background-color: #00b0ff;
+    padding: 10px;
+    border-radius: 20px;
+}

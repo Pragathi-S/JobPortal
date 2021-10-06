@@ -1,0 +1,64 @@
+.main-homepage{
+    margin: 15px;
+}
+
+.main_header{
+    display: flex;
+}
+
+.main_content{
+    display: flex;
+    margin-top: 40px;
+    margin-left: -90%;
+}
+
+.brandlogo{
+    height: 35px;
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 900px;
+}
+
+.main_link{
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border: 1px solid rgb(179, 174, 174);
+    border-radius: 25px;
+    padding: 8px;
+    margin-bottom: 600px;
+}
+
+.main_link:hover{
+    color: white;
+    background-color: #00b0ff;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    border: 1px solid #00b0ff;
+    border-radius: 25px;
+    padding: 8px;
+    margin-bottom: 600px;
+}
+
+.main_img{
+    margin-top: 30px;
+    height: 500px;
+    width: 530px;
+}
+
+.main_title{
+    margin-top: 150px;
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+
+.main_intro{
+    color: black;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
